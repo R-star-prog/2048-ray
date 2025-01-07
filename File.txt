@@ -1,0 +1,1 @@
+Build input file cannot be found: '/Users/rayobelihomji/Documents/2048-Game/2048-ray/2048-ray/_048_ray.entitlements'. Did you forget to declare this file as an output of a script phase or custom build rule which produces it?
